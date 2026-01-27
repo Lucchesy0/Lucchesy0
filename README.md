@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://raw.githubusercontent.com/Lucchesy0/Lucchesy0/main/github-header-banner.png)
+![Header](main/github-header-banner.png)
 
 📍 **Recife, PE** | 💼 Disponível para **Presencial/Híbrido/Remoto**
 

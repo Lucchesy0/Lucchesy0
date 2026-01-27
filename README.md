@@ -1,7 +1,6 @@
 <div align="center">
 
-![Header](<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/08197c8b-3e25-4895-8108-ce4e4722d13b" />
-)
+![Header](./github-header-banner.png)
 
 📍 **Recife, PE** | 💼 Disponível para **Presencial/Híbrido/Remoto**
 

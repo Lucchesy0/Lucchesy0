@@ -5,7 +5,7 @@
 ### 🚀 Desenvolvedor Full-Stack | 📊 BI & Data Engineering
 
 [![GitHub followers](https://img.shields.io/github/followers/Lucchesy0?style=social)](https://github.com/Lucchesy0)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-luchesy-83890a259)
 
 </div>
 

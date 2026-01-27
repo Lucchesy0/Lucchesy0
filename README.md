@@ -1,8 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Lucas Luchesy!
-
-### 💻 Full-Stack Developer | 🔌 APIs REST & Databases
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Lucas%20Luchesy&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20APIs%20REST%20%26%20Databases&descAlignY=55&descAlign=50)
 
 📍 **Recife, PE** | 💼 Disponível para **Presencial/Híbrido/Remoto**
 
@@ -91,5 +89,7 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luchesysousa18@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lucchesy0&color=blueviolet&style=flat-square)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>

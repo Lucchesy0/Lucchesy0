@@ -1,5 +1,18 @@
 <div align="center">
 
+<!-- Teste 1: SVG com degradê -->
+<svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:rgb(138,43,226);stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:rgb(0,191,255);stop-opacity:0.8" />
+    </linearGradient>
+  </defs>
+  <image href="./github-banner.png" width="100%" height="200" preserveAspectRatio="xMidYMid slice"/>
+  <rect width="100%" height="200" fill="url(#grad1)" style="mix-blend-mode: overlay;"/>
+</svg>
+
+<!-- Teste 2: Imagem normal como fallback -->
 ![Header](./github-banner.png)
 
 📍 **Recife, PE** | 💼 Disponível para **Presencial/Híbrido/Remoto**

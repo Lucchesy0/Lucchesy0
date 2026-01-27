@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Lucas Luchesy!
 
-### 🚀 Desenvolvedor Full-Stack | 📊 BI & Data Engineering
+### 💻 Full-Stack Developer | 🔌 APIs REST & Databases
 
 📍 **Recife, PE** | 💼 Disponível para **Presencial/Híbrido/Remoto**
 

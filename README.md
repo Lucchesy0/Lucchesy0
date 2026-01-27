@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](main/github-header-banner.png)
+![Header](main/github-banner.png)
 
 📍 **Recife, PE** | 💼 Disponível para **Presencial/Híbrido/Remoto**
 

@@ -15,7 +15,6 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
 💻 Apaixonado por criar soluções web modernas e dashboards interativos  
-🏐 Praticante de vôlei nas horas vagas  
 🌱 Atualmente aprendendo: **LLMs, Data Pipelines & Cloud Infrastructure**
 
 ---

@@ -1,6 +1,7 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Lucas%20Luchesy&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20APIs%20REST%20%26%20Databases&descAlignY=55&descAlign=50)
+![Header](<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/08197c8b-3e25-4895-8108-ce4e4722d13b" />
+)
 
 📍 **Recife, PE** | 💼 Disponível para **Presencial/Híbrido/Remoto**
 

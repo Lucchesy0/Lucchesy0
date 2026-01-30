@@ -18,22 +18,17 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Stats](https://gitskins.com/api/stats?username=Lucchesy0&theme=github-dark)
-
-![Languages](https://gitskins.com/api/languages?username=Lucchesy0&theme=github-dark)
-
-![Streak](https://gitskins.com/api/streak?username=Lucchesy0&theme=github-dark)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucchesy0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucchesy0&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
----
-
-## 💡 Profile Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucchesy0&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 <div align="center">
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Lucchesy0&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucchesy0&theme=tokyonight)
 
 </div>
 

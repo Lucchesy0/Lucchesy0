@@ -19,13 +19,13 @@
 
 <div align="center">
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucchesy0&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucchesy0&theme=github)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucchesy0&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lucchesy0&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucchesy0&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lucchesy0&theme=github)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucchesy0&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lucchesy0&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucchesy0&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lucchesy0&theme=github)
 
 </div>
 

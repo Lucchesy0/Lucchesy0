@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  <strong>Full Stack Developer | Data Engineering & BI Specialist</strong>
+  <strong>Full Stack Developer | Data Engineering & BI</strong>
   <br>
-  📍 Recife, PE • Disponível Presencial/Híbrido/Remoto
+  📍 Recife, PE • Disponível para oportunidades
 </p>
 
 <p align="center">
@@ -16,23 +16,11 @@
 
 ---
 
-## 👋 Sobre Mim
+## 👋 Sobre
 
-Estudante de **Análise e Desenvolvimento de Sistemas** com foco em desenvolvimento full-stack e engenharia de dados. Busco **oportunidades de estágio/trainee** para aplicar conhecimentos em projetos reais e crescer profissionalmente.
+Estudante de ADS com foco em desenvolvimento full-stack e dados. Busco **estágio/trainee** para crescer em projetos reais.
 
-**🎯 Interesses Atuais:** LLMs, Data Pipelines, Cloud Infrastructure  
-**📚 Aprendendo:** Arquitetura de dados, escala de aplicações web, DevOps
-
----
-
-## 🛠️ Stack Tecnológico
-
-```text
-Frontend:    React • JavaScript • HTML5 • CSS3 • Vite
-Backend:     Python • Node.js • Express.js
-Databases:   MongoDB • MySQL • SQL
-BI & Tools:  Power BI • Git • VS Code
-```
+**🎯 Foco:** LLMs • Data Pipelines • Cloud
 
 ---
 
@@ -51,41 +39,46 @@ BI & Tools:  Power BI • Git • VS Code
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🛠️ Stack
 
-### 🛡️ [Sistema de Portaria Remota](https://github.com/Lucchesy0/Portaria-Sao-Pedro)
-**Stack:** React • Vite • Python  
-**Impacto:** Automatização de controle de acesso que reduziu tempo de cadastro de ~5min para ~30s
-
-### 🏥 [Plataforma de Gestão de Clínicas](https://github.com/Lucchesy0/Plataforma-Consultas-Backend)
-**Stack:** Node.js • Express • MySQL  
-**Descrição:** API REST para agendamento de consultas com JWT e validação de horários
-
-### 📊 Dashboards & Business Intelligence
-**Stack:** Power BI • SQL • Python  
-**Entrega:** Relatórios executivos e pipelines ETL com integração de múltiplas fontes
+```text
+Frontend:   React • JavaScript • HTML/CSS
+Backend:    Python • Node.js • Express
+Data:       MongoDB • MySQL • Power BI
+```
 
 ---
 
-## 💬 Vamos Conversar?
+## 🚀 Projetos
 
-Estou **aberto a oportunidades** de estágio e projetos colaborativos. Entre em contato:
+**🛡️ [Sistema de Portaria](https://github.com/Lucchesy0/Portaria-Sao-Pedro)** • React + Python  
+Automatização de acesso (5min → 30s)
+
+**🏥 [Gestão de Clínicas](https://github.com/Lucchesy0/Plataforma-Consultas-Backend)** • Node.js + MySQL  
+API REST para agendamento médico
+
+**📊 BI & Dashboards** • Power BI + SQL  
+Pipelines ETL e relatórios executivos
+
+---
+
+## 💬 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-luchesy-83890a259">
-    <img src="https://img.shields.io/badge/-Conectar%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:luchesysousa18@gmail.com">
-    <img src="https://img.shields.io/badge/-Enviar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lucchesy0&color=blue&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Lucchesy0&color=blue&style=flat-square" alt="Views" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
 </p>

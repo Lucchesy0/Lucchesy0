@@ -18,11 +18,24 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+
+[![](https://github-widgetbox.vercel.app/api/profile?username=Lucchesy0&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
+</div>
+
+<div align="center">
+  
+[![](https://github-widgetbox.vercel.app/api/skills?languages=python,javascript,html,css,sql&theme=light)](https://github.com/Jurredr/github-widgetbox)
+
+</div>
+
+---
+
+## 🔥 Atividade Recente
+
+<div align="center">
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucchesy0&theme=github)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucchesy0&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lucchesy0&theme=github)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucchesy0&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lucchesy0&theme=github)
@@ -60,7 +73,7 @@
 
 ---
 
-## 🔥 Projetos em Destaque
+## 💎 Projetos em Destaque
 
 **🛡️ [Sistema de Portaria Remota](https://github.com/Lucchesy0/Portaria-Sao-Pedro)** | React, Vite, Python  
 Automatização de controle de acesso em condomínios, reduzindo cadastro de ~5min para ~30s

@@ -28,11 +28,27 @@ Estudante de ADS com foco em desenvolvimento full-stack e dados. Busco **estági
 
 <div align="center">
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucchesy0&theme=github_dark)
+<!-- Tema Escuro -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucchesy0&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucchesy0&theme=github">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucchesy0&theme=github_dark" alt="GitHub Stats">
+</picture>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucchesy0&theme=github_dark" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lucchesy0&theme=github_dark" width="48%" />
+  <!-- Stats Card -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucchesy0&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucchesy0&theme=github">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucchesy0&theme=github_dark" width="48%" alt="Stats">
+  </picture>
+  
+  <!-- Languages Card -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lucchesy0&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lucchesy0&theme=github">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lucchesy0&theme=github_dark" width="48%" alt="Languages">
+  </picture>
 </p>
 
 </div>

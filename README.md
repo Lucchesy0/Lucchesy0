@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Lucchesy0&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Lucchesy0&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 </div>
 
 ---
